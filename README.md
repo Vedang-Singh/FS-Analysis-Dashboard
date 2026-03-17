@@ -36,7 +36,7 @@ Utilizes a **Waterfall Chart** to bridge the gap between Revenue and Net Profit,
 
 ## 📂 How to Use
 1.  **Clone the Repo:** Download the [FS Analysis.pbix](./FS%20Analysis.pbix) file.
-2.  **Open in Power BI:** Best viewed with Power BI Desktop (March 2024 version or later).
+2.  **Open in Power BI:** Best viewed with Power BI Desktop.
 3.  **Interact:** Use the **Year Slicer** (Top Right) to filter. Note: Historical trend charts are designed to remain static to provide long-term context.
 
 <br />
