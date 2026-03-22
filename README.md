@@ -14,15 +14,15 @@
 
 ### 1. Executive Overview
 Focuses on high-level health metrics like **ROE** and **ROA**. It features an interactive EBIDTA growth trend to monitor year-on-year performance.
-![Page1](./images/Page1.png)
+![Page1](./Images/Page1.png)
 
 ### 2. Assets & Liability Analysis
 A deep dive into capital structure. This page tracks the **Net Working Capital**  and uses a ribbon chart to visualize the composition of the Top 5 Assets over time.
-![Page2](./images/Page2.png)
+![Page2](./Images/Page2.png)
 
 ### 3. Profitability Analysis
 Utilizes a **Waterfall Chart** to bridge the gap between Revenue and Net Profit, highlighting major cost drivers like COGS and Other Expenses.
-![Page3](./images/Page3.png)
+![Page3](./Images/Page3.png)
 
 ---
 
@@ -36,7 +36,7 @@ Utilizes a **Waterfall Chart** to bridge the gap between Revenue and Net Profit,
 
 ## 📂 How to Use
 1.  **Clone the Repo:** Download the [FS Analysis.pbix](./FS%20Analysis.pbix) file.
-2.  **Open in Power BI:** Best viewed with Power BI Desktop (March 2024 version or later).
+2.  **Open in Power BI:** Best viewed with Power BI Desktop.
 3.  **Interact:** Use the **Year Slicer** (Top Right) to filter. Note: Historical trend charts are designed to remain static to provide long-term context.
 
 <br />
